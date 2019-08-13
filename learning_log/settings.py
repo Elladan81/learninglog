@@ -127,3 +127,6 @@ STATIC_URL = '/static/'
 
 # my settings
 LOGIN_URL = 'users:login'
+
+# my settings
+LOGIN_URL = 'users:login'
